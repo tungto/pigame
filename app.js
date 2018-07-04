@@ -21,7 +21,7 @@ function init() {
     roundScore = 0;
     activePlayer = 0;
     isWin = false;
-    winnerScore = 30;
+    winnerScore = 60;
     //clear input winner score
     document.getElementById("winner-score").textContent = "";
     hideDice();
